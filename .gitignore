@@ -115,5 +115,7 @@ build
 .strapi-updater.json
 
 ############################
-# yarn
+# npm
 ############################
+
+package-lock.json
