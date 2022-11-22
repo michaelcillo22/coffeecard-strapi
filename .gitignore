@@ -118,4 +118,4 @@ build
 # npm
 ############################
 
-yarn.lock
+package-lock.json
